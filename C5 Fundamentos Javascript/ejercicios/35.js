@@ -6,7 +6,8 @@ function redondearHaciaArriba(num) {
   // Por ejemplo: 
   // 2.5 ---> 3
   // 0.1 ---> 1
-  // Tu código:
+  // Tu código: 
+  return Math.ceil(num);
 }
 
 module.exports = redondearHaciaArriba;
