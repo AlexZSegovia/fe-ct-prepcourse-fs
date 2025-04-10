@@ -14,7 +14,6 @@
       if (i === 5) {
         continue; // Esto salta el resto de las acciones para la iteración 5
       }
-  
       num += 2; // Aumentamos en 2 el valor de num
       resultados.push(num); // Guardamos el valor actualizado de num en el arreglo
     }
